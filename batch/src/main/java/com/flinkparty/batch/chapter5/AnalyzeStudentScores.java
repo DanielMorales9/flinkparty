@@ -1,6 +1,5 @@
 package com.flinkparty.batch.chapter5;
 
-import com.flinkparty.batch.chapter4.BroadcastOperations;
 import com.flinkparty.batch.common.Utils;
 import org.apache.flink.api.common.functions.MapFunction;
 import org.apache.flink.api.common.functions.ReduceFunction;

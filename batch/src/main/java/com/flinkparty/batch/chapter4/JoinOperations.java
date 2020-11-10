@@ -1,8 +1,6 @@
 package com.flinkparty.batch.chapter4;
 
-import com.flinkparty.batch.chapter3.BasicTransformations;
 import com.flinkparty.batch.common.Utils;
-import org.apache.flink.api.common.typeinfo.Types;
 import org.apache.flink.api.java.DataSet;
 import org.apache.flink.api.java.ExecutionEnvironment;
 import org.apache.flink.api.java.tuple.Tuple2;
