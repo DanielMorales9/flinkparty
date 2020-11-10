@@ -54,6 +54,7 @@ under the License.
 	<modules>
 		<module>batch</module>
 		<module>realtime</module>
+		<module>analytics</module>
 	</modules>
 
 </project>
